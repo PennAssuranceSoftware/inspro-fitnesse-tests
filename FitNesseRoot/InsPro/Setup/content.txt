@@ -1,0 +1,16 @@
+!define COLLAPSE_SETUP {true} 
+!define COLLAPSE_TEARDOWN {true} 
+
+|Import|
+|com.pennassurancesoftware.fitnesse.inspro|
+|fitnesse.testutil|
+|fitnesse.slim.test|
+|fitnesse.fixtures|
+
+| Define Table Type         |
+| Constant Table | as Table |
+
+| Constant Table |
+| INSPRO_HOST | EDDYTST03 |
+| INSPRO_PORT | 9080 |
+| SCREENSHOTS_PATH | ${FITNESSE_ROOTPATH}/FitNesseRoot/files/testResults/screenshots |

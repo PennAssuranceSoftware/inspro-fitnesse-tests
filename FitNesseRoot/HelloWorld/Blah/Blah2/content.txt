@@ -1,0 +1,28 @@
+!define TEST_SYSTEM {slim}
+!define COLLAPSE_SETUP {true} 
+!define COLLAPSE_TEARDOWN {true} 
+
+|Import|
+|com.pennassurancesoftware.fitnesse.inspro|
+|fitnesse.testutil|
+|fitnesse.slim.test|
+|fitnesse.fixtures|
+
+| Define Table Type         |
+| Constant Table | as Table |
+
+| Constant Table |
+| INSPRO_HOST | EDDYTST03 |
+| INSPRO_PORT | 9080 |
+| SCREENSHOTS_PATH | ${FITNESSE_ROOTPATH}/FitNesseRoot/files/screenshots |
+
+|Table: Annuity New Business Table|
+|Client|RNA0000001|
+|Marketing File|RNART-100|
+|Application Received Date|SYSTEM|
+|Sign Date|SYSTEM|
+|Tax Plan Type|01|
+|Tax Plan Sub Type|5|
+|Exchange Transfer|N/A|
+|Initial Premium|$10,000|
+|Policy Number||
