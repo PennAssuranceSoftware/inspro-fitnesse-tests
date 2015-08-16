@@ -7,11 +7,14 @@
 |fitnesse.slim.test|
 |fitnesse.fixtures|
 
-| Define Table Type             |
-| Constant           | as Table |
-| Annuity New Business | as Table |
+| Define Table Type                  |
+| Constant              | as Table   |
+| !-InsProEnvironment-! | as Table   |
+| Annuity New Business  | as Table   |
 
 | Constant |
-| INSPRO_HOST | EDDYTST03 |
-| INSPRO_PORT | 9080 |
 | SCREENSHOTS_PATH | ${FITNESSE_ROOTPATH}/FitNesseRoot/files/testResults/screenshots |
+
+| !-InsProEnvironment-! |
+| INSPRO_HOST | ${inspro.host} |
+| INSPRO_PORT | ${inspro.port} |
