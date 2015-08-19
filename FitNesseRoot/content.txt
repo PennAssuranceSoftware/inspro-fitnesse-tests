@@ -1,2 +1,2 @@
-!path   C:\Users\Administrator\git\inspro-integration\inspro-fitnesse-fixture2\bin\maven\classes
-!path   C:\Users\Administrator\git\inspro-integration\inspro-fitnesse-fixture2\dist\staging\libs\*
+!include <EclipseClasspath
+!path   ${FITNESSE_ROOTPATH}/libs/*
