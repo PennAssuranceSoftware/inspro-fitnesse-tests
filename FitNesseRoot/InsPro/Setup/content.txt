@@ -7,10 +7,11 @@
 |fitnesse.slim.test|
 |fitnesse.fixtures|
 
-| Define Table Type                  |
-| Constant              | as Table   |
-| !-InsProEnvironment-! | as Table   |
-| Annuity New Business  | as Table   |
+| Define Table Type                         |
+| Constant                     | as Table   |
+| !-InsProEnvironment-!        | as Table   |
+| Annuity New Business         | as Table   |
+| Universal Life New Business  | as Table   |
 
 | Constant |
 | SCREENSHOTS_PATH | ${FITNESSE_ROOTPATH}/FitNesseRoot/files/testResults/screenshots |
