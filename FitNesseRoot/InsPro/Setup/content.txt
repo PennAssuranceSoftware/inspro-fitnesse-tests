@@ -17,5 +17,7 @@
 | SCREENSHOTS_PATH | ${FITNESSE_ROOTPATH}/FitNesseRoot/files/testResults/screenshots |
 
 | !-InsProEnvironment-! |
-| INSPRO_HOST | ${inspro.host} |
-| INSPRO_PORT | ${inspro.port} |
+| INSPRO_HOST     | ${inspro.host}  |
+| INSPRO_PORT     | ${inspro.port}  |
+| INSPRO_HEADLESS | ${pas.headless} |
+ 

@@ -9,4 +9,5 @@ go active in the cycle after adding it through the UI.
 | Face Amount               | $20,000    |
 | Application Received Date | SYSTEM     |
 | Sign Date                 | SYSTEM     |
+| Billing Method            | P          |
 | Policy Number             |            |
