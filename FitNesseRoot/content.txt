@@ -1,2 +1,2 @@
 !include <EclipseClasspath
-!path ${FITNESSE_ROOTPATH}/libs/*
+!path   ${FITNESSE_ROOTPATH}/libs/*
