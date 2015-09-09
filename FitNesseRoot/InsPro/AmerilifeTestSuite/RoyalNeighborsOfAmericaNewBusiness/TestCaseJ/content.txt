@@ -8,6 +8,7 @@ Roth - Transfer T/E & Rate Lock
 | Application Received Date | 06/29/2010           |
 | Sign Date                 | 06/29/2010           |
 | Effective Date            | 06/30/2010           |
+| Roth Origination Date     | 06/30/2010           |
 | Tax Plan Type             | Roth                 |
 | Tax Plan Sub Type         | N/A                  |
 | Initial Annuity Period    | 7                    |

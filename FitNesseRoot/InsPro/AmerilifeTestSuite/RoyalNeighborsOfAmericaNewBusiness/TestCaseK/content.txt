@@ -8,7 +8,7 @@ N10
 | Application Received Date | 06/29/2010           |
 | Sign Date                 | 06/29/2010           |
 | Effective Date            | 06/29/2010           |
-| Tax Plan Type             | N10                  |
+| Tax Plan Type             | NQ                   |
 | Tax Plan Sub Type         | N/A                  |
 | Initial Annuity Period    | 5                    |
 **************!
