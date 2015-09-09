@@ -9,6 +9,7 @@
 
 | Define Table Type                         |
 | Constant                     | as Table   |
+| Data                         | as Table   |
 | !-InsProEnvironment-!        | as Table   |
 | Annuity New Business         | as Table   |
 | Universal Life New Business  | as Table   |
@@ -20,4 +21,6 @@
 | INSPRO_HOST     | ${inspro.host}  |
 | INSPRO_PORT     | ${inspro.port}  |
 | INSPRO_HEADLESS | ${pas.headless} |
- 
+
+| Data | CLEAR | 
+|      |       |
